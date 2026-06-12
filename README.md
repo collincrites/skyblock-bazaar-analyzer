@@ -2,6 +2,12 @@
 
 A Raspberry Pi hosted analytics platform for Hypixel SkyBlock Bazaar trading.
 
+## Screenshots
+
+### Discord Alerts
+
+![Discord Alert](screenshots/discord-alert.png)
+
 ## Features
 
 - Collects live Bazaar market data using the Hypixel API
