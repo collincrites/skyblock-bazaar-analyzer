@@ -1,0 +1,16 @@
+venv/
+__pycache__/
+*.pyc
+
+*.db
+bazaar.db
+
+*.log
+startup_log.txt
+
+.env
+.env.*
+
+ah_alerted.json
+
+.vscode/
